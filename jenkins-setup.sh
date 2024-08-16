@@ -1,4 +1,5 @@
 #!/bin/bash
+# This is satz branch
 sudo apt update
 sudo apt install openjdk-11-jdk -y
 sudo apt install maven -y
